@@ -11,7 +11,7 @@ To use archTest, you need to have Go installed and set up on your machine. You c
 following go get command:
 
 ```golang
-  go get github.com/ANDERSON1808/archTest.git
+  go get github.com/ANDERSON1808/archTest@latest
 ```
 
 ### Usage
